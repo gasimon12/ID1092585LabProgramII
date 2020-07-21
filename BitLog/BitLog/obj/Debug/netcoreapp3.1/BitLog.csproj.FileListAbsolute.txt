@@ -1,0 +1,22 @@
+C:\Users\gasim\source\repos\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.exe
+C:\Users\gasim\source\repos\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.deps.json
+C:\Users\gasim\source\repos\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.runtimeconfig.json
+C:\Users\gasim\source\repos\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.dll
+C:\Users\gasim\source\repos\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.pdb
+C:\Users\gasim\source\repos\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.AssemblyInfo.cs
+C:\Users\gasim\source\repos\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.dll
+C:\Users\gasim\source\repos\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.pdb
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.exe
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.deps.json
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.runtimeconfig.json
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.runtimeconfig.dev.json
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.dll
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\bin\Debug\netcoreapp3.1\BitLog.pdb
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.csprojAssemblyReference.cache
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.AssemblyInfoInputs.cache
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.AssemblyInfo.cs
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.dll
+C:\Users\gasim\Desktop\Lab program\BitLog\BitLog\obj\Debug\netcoreapp3.1\BitLog.pdb

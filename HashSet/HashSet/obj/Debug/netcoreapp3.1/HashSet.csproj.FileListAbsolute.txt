@@ -1,0 +1,11 @@
+C:\Users\gasim\source\repos\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.exe
+C:\Users\gasim\source\repos\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.deps.json
+C:\Users\gasim\source\repos\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.runtimeconfig.json
+C:\Users\gasim\source\repos\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.dll
+C:\Users\gasim\source\repos\HashSet\HashSet\bin\Debug\netcoreapp3.1\HashSet.pdb
+C:\Users\gasim\source\repos\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.AssemblyInfo.cs
+C:\Users\gasim\source\repos\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.dll
+C:\Users\gasim\source\repos\HashSet\HashSet\obj\Debug\netcoreapp3.1\HashSet.pdb
