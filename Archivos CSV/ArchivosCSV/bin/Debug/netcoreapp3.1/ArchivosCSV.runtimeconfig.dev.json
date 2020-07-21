@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gasim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gasim\\.nuget\\packages"
+    ]
+  }
+}

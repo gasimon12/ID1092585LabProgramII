@@ -1,0 +1,22 @@
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.exe
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.deps.json
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.runtimeconfig.json
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.dll
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.pdb
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.AssemblyInfo.cs
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.dll
+C:\Users\gasim\source\repos\ArchivosCSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.pdb
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.exe
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.deps.json
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.runtimeconfig.json
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.runtimeconfig.dev.json
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.dll
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\bin\Debug\netcoreapp3.1\ArchivosCSV.pdb
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.csprojAssemblyReference.cache
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.AssemblyInfoInputs.cache
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.AssemblyInfo.cs
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.dll
+C:\Users\gasim\Desktop\Lab program\Archivos CSV\ArchivosCSV\obj\Debug\netcoreapp3.1\ArchivosCSV.pdb

@@ -1,0 +1,11 @@
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\bin\Debug\netcoreapp3.1\MorseCode2.exe
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\bin\Debug\netcoreapp3.1\MorseCode2.deps.json
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\bin\Debug\netcoreapp3.1\MorseCode2.runtimeconfig.json
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\bin\Debug\netcoreapp3.1\MorseCode2.runtimeconfig.dev.json
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\bin\Debug\netcoreapp3.1\MorseCode2.dll
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\bin\Debug\netcoreapp3.1\MorseCode2.pdb
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\obj\Debug\netcoreapp3.1\MorseCode2.csprojAssemblyReference.cache
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\obj\Debug\netcoreapp3.1\MorseCode2.AssemblyInfoInputs.cache
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\obj\Debug\netcoreapp3.1\MorseCode2.AssemblyInfo.cs
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\obj\Debug\netcoreapp3.1\MorseCode2.dll
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode2\obj\Debug\netcoreapp3.1\MorseCode2.pdb

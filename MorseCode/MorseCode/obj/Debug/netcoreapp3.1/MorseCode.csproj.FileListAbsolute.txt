@@ -1,0 +1,22 @@
+C:\Users\gasim\source\repos\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.AssemblyInfo.cs
+C:\Users\gasim\source\repos\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.exe
+C:\Users\gasim\source\repos\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.deps.json
+C:\Users\gasim\source\repos\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.runtimeconfig.json
+C:\Users\gasim\source\repos\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.dll
+C:\Users\gasim\source\repos\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.pdb
+C:\Users\gasim\source\repos\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.dll
+C:\Users\gasim\source\repos\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.pdb
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.exe
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.deps.json
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.runtimeconfig.json
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.runtimeconfig.dev.json
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.dll
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\bin\Debug\netcoreapp3.1\MorseCode.pdb
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.csprojAssemblyReference.cache
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.AssemblyInfoInputs.cache
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.AssemblyInfo.cs
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.dll
+C:\Users\gasim\Desktop\Lab program\MorseCode\MorseCode\obj\Debug\netcoreapp3.1\MorseCode.pdb

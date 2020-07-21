@@ -1,0 +1,22 @@
+C:\Users\gasim\source\repos\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.exe
+C:\Users\gasim\source\repos\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.deps.json
+C:\Users\gasim\source\repos\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.runtimeconfig.json
+C:\Users\gasim\source\repos\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.dll
+C:\Users\gasim\source\repos\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.pdb
+C:\Users\gasim\source\repos\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.AssemblyInfo.cs
+C:\Users\gasim\source\repos\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.dll
+C:\Users\gasim\source\repos\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.pdb
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.exe
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.deps.json
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.runtimeconfig.json
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.runtimeconfig.dev.json
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.dll
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\bin\Debug\netcoreapp3.1\CharByChar.pdb
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.csprojAssemblyReference.cache
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.AssemblyInfoInputs.cache
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.AssemblyInfo.cs
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.dll
+C:\Users\gasim\Desktop\Lab program\CharByChar\CharByChar\obj\Debug\netcoreapp3.1\CharByChar.pdb
