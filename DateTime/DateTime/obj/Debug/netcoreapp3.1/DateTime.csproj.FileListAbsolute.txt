@@ -1,0 +1,11 @@
+C:\Users\gasim\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\gasim\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\gasim\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\gasim\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\gasim\source\repos\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\gasim\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\gasim\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\gasim\source\repos\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb

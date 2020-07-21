@@ -1,0 +1,11 @@
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\bin\Debug\netcoreapp3.1\DecodifDateTime.exe
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\bin\Debug\netcoreapp3.1\DecodifDateTime.deps.json
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\bin\Debug\netcoreapp3.1\DecodifDateTime.runtimeconfig.json
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\bin\Debug\netcoreapp3.1\DecodifDateTime.runtimeconfig.dev.json
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\bin\Debug\netcoreapp3.1\DecodifDateTime.dll
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\bin\Debug\netcoreapp3.1\DecodifDateTime.pdb
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\obj\Debug\netcoreapp3.1\DecodifDateTime.csprojAssemblyReference.cache
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\obj\Debug\netcoreapp3.1\DecodifDateTime.AssemblyInfoInputs.cache
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\obj\Debug\netcoreapp3.1\DecodifDateTime.AssemblyInfo.cs
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\obj\Debug\netcoreapp3.1\DecodifDateTime.dll
+C:\Users\gasim\source\repos\DecodifDateTime\DecodifDateTime\obj\Debug\netcoreapp3.1\DecodifDateTime.pdb
